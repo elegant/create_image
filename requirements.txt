@@ -2,4 +2,5 @@ diffusers
 transformers
 invisible-watermark>=0.2.0
 accelerate
+torchvision
 gradio
