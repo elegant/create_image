@@ -1,5 +1,6 @@
 from diffusers import DiffusionPipeline
 import torch
+import torchvision
 import gradio as gr
 
 
